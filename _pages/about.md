@@ -21,7 +21,7 @@ My thesis investigates approaches to enhance the robustness of AI models, with a
 - **Jun 2025** – 🎉 *DDB: Diffusion Driven Balancing to Address Spurious Correlations* accepted at **ICCV 2025**. [Project Page](https://arianyp.github.io/Diffusion-Driven-Balancing/)  
   **Authors:** **A. Yazdan Parast**, B. Azam, N. Akhtar  
   
-- **Oct 2024** – 🎓 Began Ph.D. in Computer Science at the University of Melbourne  
+- **Oct 2024** – 🎓 Began Ph.D. at The University of Melbourne  
 
 - **Jun 2024** – 🎉 *Decompose-and-Compose: A Compositional Approach to Mitigating Spurious Correlation* presented at **CVPR 2024**. [Project Page](https://sharif-ml-lab.github.io/Decompose-and-Compose/)  
   **Authors:** F. Hosseini Noohdani, P. Hosseini\*, **A. Yazdan Parast\***, H. Yaghoubi Araghi, M. Soleymani Baghshah
